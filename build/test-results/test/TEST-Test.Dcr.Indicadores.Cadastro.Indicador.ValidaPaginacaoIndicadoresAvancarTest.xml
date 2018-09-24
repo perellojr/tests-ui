@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test.Dcr.Indicadores.Cadastro.Indicador.ValidaPaginacaoIndicadoresAvancarTest" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="NB-003934" time="0.0">
+  <properties/>
+  <system-out><![CDATA[E acesso o menu desejado
+Acessando IFRAME_PORTAL
+IFRAME_PORTAL acessado com sucesso
+Acessando Menu: INDICADOR_CADASTROS_INDICADOR
+Realizando Captura de Tela
+Quando pesquiso indicadores sem utilizar filtros.
+Pesquisa Iniciada.
+Pesquisa realizada.
+E avanco uma pagina da pesquisa.
+Avano na paginao iniciado.
+Entao a pagina da pesquisa desejada e exibida.
+Navegao na paginao realizado com sucesso.
+Finalizando instancia do Chrome Driver
+
+1 Scenarios (1 passed)
+5 Steps (5 passed)
+0m19.763s
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

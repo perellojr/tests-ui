@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cenario: Valida Habilitar exibicao do indicador no painel" tests="9" skipped="5" failures="0" errors="0" timestamp="2018-09-12T19:22:35" hostname="NB-003934" time="10.503">
+  <properties/>
+  <testcase name="Dado que acesso o portal de desempenho comercial" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0"/>
+  <testcase name="E acesso o menu desejado" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0"/>
+  <testcase name="Quando verifico os indicadores nao exibidos no dashboard" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0"/>
+  <testcase name="E pesquiso na tela com um registro válido retornado pelo banco de dados" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E inicio a edicao do indicador" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E habilito a exibicao no painel" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E seleciono um agrupador para o indicador" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Entao a exibicao do indicador no painel e habilitada" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Cenario: Valida Habilitar exibicao do indicador no painel" time="17.024"/>
+  <system-out><![CDATA[Iniciando ChromeDriver.
+Executando Cenario de Teste: Valida Habilitar exibicao do indicador no painel
+Dado que acesso o portal de desempenho comercial
+Acessando Portal: http://portal-dcr-ui.k8s.hlg.bancoagiplan.com.br
+Realizando Captura de Tela
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 21049
+Only local connections are allowed.
+Sep 12, 2018 4:22:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>

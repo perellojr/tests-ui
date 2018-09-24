@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cenario: Valida Alterar nome de exibicao do indicador" tests="16" skipped="8" failures="0" errors="0" timestamp="2018-09-12T19:21:42" hostname="NB-003934" time="99.676">
+  <properties/>
+  <testcase name="Dado que acesso o portal de desempenho comercial" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="E acesso o menu desejado" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="Quando verifico os indicadores exibidos no painel" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="E pesquiso na tela com um registro válido retornado pelo banco de dados" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E inicio a edicao do indicador" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E seleciono um agrupador para o indicador" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Entao o agrupador do indicador e alterado" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="19.521"/>
+  <testcase name="Dado que acesso o portal de desempenho comercial" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="E acesso o menu desejado" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="Quando verifico no banco de dados todos os indicadores" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0"/>
+  <testcase name="E pesquiso na tela com um registro válido retornado pelo banco de dados" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E inicio a edicao do indicador" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="E altero o nome de exibicao do indicador para Alterado" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="Entao o nome de exibicao do indicador e alterado com sucesso para Alterado" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="classMethod" classname="Cenario: Valida Alterar nome de exibicao do indicador" time="17.709"/>
+  <system-out><![CDATA[Iniciando ChromeDriver.
+Executando Cenario de Teste: Valida Alterar nome de exibicao do indicador
+Dado que acesso o portal de desempenho comercial
+Acessando Portal: http://portal-dcr-ui.k8s.hlg.bancoagiplan.com.br
+Realizando Captura de Tela
+Iniciando ChromeDriver.
+Executando Cenario de Teste: Valida Alterar nome de exibicao do indicador
+Dado que acesso o portal de desempenho comercial
+Acessando Portal: http://portal-dcr-ui.k8s.hlg.bancoagiplan.com.br
+Realizando Captura de Tela
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 22600
+Only local connections are allowed.
+Sep 12, 2018 4:21:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e) on port 33016
+Only local connections are allowed.
+Sep 12, 2018 4:23:05 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+</testsuite>
